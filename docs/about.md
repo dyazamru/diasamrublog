@@ -1,8 +1,8 @@
 ---
 title: About
-description: A simple page about this site
+description: Tentang Blog ini
 
 ---
 # About
 
-This VuePress theme was imported in [Forestry](https:://forestry.io), a git-backed headless CMS.
+Blog ini hanyalah tempat saya berbagi pengalaman dan tutorial. semoga kamu senang mengunjunginya. terimakasih
